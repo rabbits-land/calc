@@ -1,5 +1,5 @@
 {
-  "name": "pico-service-demo",
+  "name": "calc",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k33g/pico-service-demo.git"
+    "url": "git+https://github.com/rabbits-land/calc.git"
   },
   "author": "k33g aka @k33g_org",
   "license": "unlicense",
   "bugs": {
-    "url": "https://github.com/k33g/pico-service-demo/issues"
+    "url": "https://github.com/rabbits-land/calc/issues"
   },
-  "homepage": "https://github.com/k33g/pico-service-demo#readme"
+  "homepage": "https://github.com/rabbits-land/calc#readme"
 }
