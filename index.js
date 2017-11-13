@@ -1,4 +1,4 @@
-const {Service} = require('../../index')
+const {Service} = require('./pico')
 
 let calcService = new Service({})
 
