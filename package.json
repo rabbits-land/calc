@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "./node_modules/.bin/mocha tests/**"
   },
   "repository": {
     "type": "git",
@@ -14,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rabbits-land/calc/issues"
   },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },  
   "homepage": "https://github.com/rabbits-land/calc#readme"
 }
